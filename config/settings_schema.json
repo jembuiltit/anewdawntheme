@@ -263,7 +263,7 @@
     ]
   },
   {
-    "name": "t:settings_schema.stuff.name",
+    "name": "test",
     "settings": [
       {
         "type": "image_picker",
