@@ -166,10 +166,6 @@
       }
     ]
   },
- {
-  "type": "header",
-  "content": "boom"
-},
   {
     "name": "t:settings_schema.social-media.name",
     "settings": [
