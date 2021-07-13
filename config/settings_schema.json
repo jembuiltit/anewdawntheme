@@ -166,14 +166,10 @@
       }
     ]
   },
-  {
-    "name": "t:settings_schema.biggie-smalls.name",
-    "settings": [
-      {
-        "type": "header",
-        "content": "t:settings_schema.biggie-smalls.settings.header__1.content"
-      },
-  },
+ {
+  "type": "header",
+  "content": "boom"
+},
   {
     "name": "t:settings_schema.social-media.name",
     "settings": [
