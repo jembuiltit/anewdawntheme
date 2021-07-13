@@ -268,8 +268,8 @@
       {
         "type": "image_picker",
         "id": "stuff",
-        "label": "t:settings_schema.stuff.settings.stuff.label",
-        "info": "t:settings_schema.stuff.settings.stuff.info"
+        "label": "test",
+        "info": "test"
       }
     ]
   }
